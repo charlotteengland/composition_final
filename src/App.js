@@ -1,5 +1,5 @@
 import React from 'react';
-import Split from './composition/Split'
+import Split from './compositions/Split'
 import './App.css'
 
 function App() {
