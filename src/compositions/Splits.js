@@ -13,5 +13,5 @@ function Split(props) {
   )
 }
 
-
+export default Split;
 
